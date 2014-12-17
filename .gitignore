@@ -1,0 +1,8 @@
+# jetbrains
+*.iml
+.idea/
+
+# npm
+node_modules/
+*.log
+*.gz

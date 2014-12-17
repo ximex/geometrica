@@ -1,2 +1,1 @@
-geometrica
-==========
+# Geometrica

@@ -1,0 +1,34 @@
+{
+  "name": "geometrica",
+  "description": "lib for geometric operations",
+  "version": "0.0.1",
+  "keywords": [
+    "geometry",
+    "calc",
+    "arithmetic",
+    "angle",
+    "distance"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ximex/geometrica"
+  },
+  "bugs": {
+    "url": "https://github.com/ximex/geometrica/issues",
+    "email": "developer@ximex.at"
+  },
+  "author": {
+    "name": "Thomas Rupprecht",
+    "email": "developer@ximex.at",
+    "url": "blog.ximex.at"
+  },
+  "contributors": [
+    {
+      "name": "Thomas Rupprecht",
+      "email": "developer@ximex.at",
+      "url": "blog.ximex.at"
+    }
+  ],
+  "license": "MIT",
+  "dependencies": {}
+}

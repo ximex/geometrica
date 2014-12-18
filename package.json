@@ -9,6 +9,7 @@
     "angle",
     "distance"
   ],
+  "homepage": "https://github.com/ximex/geometrica",
   "repository": {
     "type": "git",
     "url": "https://github.com/ximex/geometrica"
